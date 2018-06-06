@@ -34,6 +34,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
  
 ### Virat Kohli
 If you want to embed images, this is how you do it:
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ### Support or Contact
 
